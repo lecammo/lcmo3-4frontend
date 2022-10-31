@@ -4,7 +4,7 @@ export default{
 }
 
 </script>
-
+npm run dev
 <template>
   <header>
    <h1>Hello, Vue.js!</h1>
